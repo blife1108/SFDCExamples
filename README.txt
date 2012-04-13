@@ -1,6 +1,3 @@
-Sample List : 
-1. 
-2. 
-3.
-4.
-5.
+Example List : 
+1. Integrate Google Visualization into SFDC
+
